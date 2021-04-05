@@ -3,4 +3,15 @@ Esto está editado en la rama master y web para hacer
 luego un merge
 Agregando desde GitHub DEsktop
 
+
 agregando comentarios
+
+
+modifcando este archivo
+
+editando en línea 5
+
+agregando lineas desde mi repo.
+
+hola. Modificacion realizada 5/04/2021 - 08:17
+
